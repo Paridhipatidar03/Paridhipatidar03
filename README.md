@@ -21,8 +21,5 @@
 📌 Java Full Stack Development – Not just learning, but redefining what’s possible.<br>
 🎯 Mastering system efficiency, because slow code is a crime.<br>
 <hr>
-📡 Let’s Reprogram the Future Together<hr>
-💼 LinkedIn<br>
-<a href="patidarparidhi35@gmail.com>Gmail</a><br>
 🔗 "I don’t just push code. I push boundaries."
 
