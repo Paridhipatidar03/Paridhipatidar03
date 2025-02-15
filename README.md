@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Paridhi Patidar</h1>  
-<h3 align="center">🚀 Java Full Stack Developer | C++ & DSA Enthusiast | Building Scalable Solutions</h3>
+<h3 align="center">🚀 Java Full Stack Developer | C++ & DSA Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Turning+Logic+into+Optimized+Code...;Writing+Scalable+and+Efficient+Software...;Passionate+about+Performance+Engineering...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Code.+Debug.+Optimize.+Repeat.;Bridging+Logic+with+Innovation.;Writing+Clean+and+Scalable+Code.">
 </p>
 
 
