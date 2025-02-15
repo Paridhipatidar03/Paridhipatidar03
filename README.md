@@ -1,5 +1,5 @@
 🚀 Logic Engineer | Code Futurist | Algorithm Sculptor
-💻 B.Tech + M.Tech Integrated Student | 📍 IIPS DAVV
+💻 B.Tech + M.Tech (IT) Integrated Student | 📍 IIPS DAVV
 🔮 I don’t “write” code. I engineer thought, optimize time, and debug the matrix.
 
 🛠 Core Tech Stack
