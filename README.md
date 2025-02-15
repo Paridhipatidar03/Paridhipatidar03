@@ -1,5 +1,9 @@
-<h1 align="center">Hi there, I'm Paridhi Patidar 👋</h1>  
-<p align="center">🚀 Full Stack Java Developer | C++ & DSA Enthusiast | Building Scalable Solutions</p>
+<h1 align="center">Hey 👋, I'm Paridhi Patidar</h1>  
+<h3 align="center">🚀 Java Full Stack Developer | C++ & DSA Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code...;Building+Scalable+Applications...;Exploring+Data+Structures+%26+Algorithms..." alt="Typing Animation"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/Paridhipatidar03">
@@ -9,6 +13,7 @@
     <img src="https://img.shields.io/github/followers/Paridhipatidar03?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
 </p>
+
 
 🚀 Logic Engineer | Code Futurist | Algorithm Sculptor <br>
 💻 B.Tech + M.Tech (IT) Integrated Student | 📍 IIPS DAVV <br>
