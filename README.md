@@ -1,3 +1,15 @@
+<h1 align="center">Hi there, I'm Paridhi Patidar 👋</h1>  
+<p align="center">🚀 Full Stack Java Developer | C++ & DSA Enthusiast | Building Scalable Solutions</p>
+
+<p align="center">
+  <a href="https://github.com/Paridhipatidar03">
+    <img src="https://komarev.com/ghpvc/?username=Paridhipatidar03&label=Profile+Views&color=blue&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Paridhipatidar03?tab=followers">
+    <img src="https://img.shields.io/github/followers/Paridhipatidar03?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
+
 🚀 Logic Engineer | Code Futurist | Algorithm Sculptor <br>
 💻 B.Tech + M.Tech (IT) Integrated Student | 📍 IIPS DAVV <br>
 🔮 I don’t “write” code. I engineer thought, optimize time, and debug the matrix.
