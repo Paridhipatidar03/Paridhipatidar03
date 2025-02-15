@@ -22,22 +22,29 @@
 🎯 Mastering system efficiency, because slow code is a crime.<br>
 <hr>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F71DFF&width=500&lines=🚀+Full+Stack+Developer;🔥+Java+%7C+C%2B%2B+%7C+DSA+Enthusiast;⚡+Building+Scalable+Solutions;🎯+Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Full+Stack+Developer;💡+Java+%7C+C%2B%2B+%7C+DSA+%7C+SQL;📌+Building+Scalable+Solutions;🎯+Problem-Solving+Enthusiast" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=F44336">
-  <img src="https://img.shields.io/badge/Skills-DSA-blue?style=flat&logo=codechef&color=2962FF">
-  <img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-orange?style=flat&logo=javascript&color=FFA000">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paridhipatidar03&show_icons=true&theme=radical" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paridhipatidar03&show_icons=true&theme=github_dark&hide_border=true" width="450">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar03&layout=compact&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar03&layout=compact&theme=graywhite&hide_border=true" width="400">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paridhipatidar03&theme=github-compact&hide_border=true">
 </p>
 <p align="center">
   <img src="https://github.com/Paridhipatidar03/Paridhipatidar03/blob/output/github-contribution-grid-snake.svg">
 </p>
+
 
 🔗 "I don’t just push code. I push boundaries."
 
