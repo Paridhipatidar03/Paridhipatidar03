@@ -1,17 +1,8 @@
-<h1 align="center">🚀 Elevating Code to Craftsmanship 🚀</h1>
-<h3 align="center">Java Full Stack Developer | C++ & DSA Enthusiast | Performance-Driven Engineer</h3>
+<h1 align="center">Hey 👋, I'm Paridhi Patidar</h1>  
+<h3 align="center">🚀 Java Full Stack Developer | C++ & DSA Enthusiast | Building Scalable Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Problem-Solver+%7C+Code+Optimizer+%7C+Tech+Explorer;Transforming+Logic+into+High-Performance+Applications;Crafting+Scalable+and+Efficient+Software+Architectures">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Paridhipatidar03">
-    <img src="https://komarev.com/ghpvc/?username=Paridhipatidar03&label=Profile+Views&color=blue&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Paridhipatidar03?tab=followers">
-    <img src="https://img.shields.io/github/followers/Paridhipatidar03?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Turning+Logic+into+Optimized+Code...;Writing+Scalable+and+Efficient+Software...;Passionate+about+Performance+Engineering...">
 </p>
 
 
