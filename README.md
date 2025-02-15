@@ -42,8 +42,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paridhipatidar03&theme=github-compact&hide_border=true">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Paridhipatidar35/Paridhipatidar35/main/dist/github-snake.svg" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/Paridhipatidar03/Paridhipatidar03/main/dist/github-snake.svg" alt="Contribution Snake">
 </p>
+
 
 
 
