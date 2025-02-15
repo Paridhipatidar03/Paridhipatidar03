@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Java Full Stack Developer | C++ & DSA Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Code.+Debug.+Optimize.+Repeat.;Bridging+Logic+with+Innovation.;Writing+Clean+and+Scalable+Code.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Code.+Debug.+Optimize.+Repeat.;Bridging+Logic+with+Innovation.;Writing+Clean+and+Scalable+Code.">
 </p>
+
 
 
 🚀 Logic Engineer | Code Futurist | Algorithm Sculptor <br>
