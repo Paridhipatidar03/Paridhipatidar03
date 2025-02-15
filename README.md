@@ -1,9 +1,44 @@
 <h1 align="center">Hey 👋, I'm Paridhi Patidar</h1>  
-<h3 align="center">🚀 Java Full Stack Developer | C++ & DSA Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Java Developer | C++ & DSA Enthusiast | Building Scalable Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code...;Building+Scalable+Applications...;Exploring+Data+Structures+%26+Algorithms..." alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498db&center=true&vCenter=true&width=600&lines=Code.+Debug.+Optimize.+Repeat.;Passionate+about+clean+and+efficient+code.;Bridging+the+gap+between+logic+and+innovation.">
 </p>
+
+---
+
+### 👨‍💻 **About Me**  
+🔹 **Java Full Stack Developer** with expertise in **Spring Boot, Hibernate & REST APIs**  
+🔹 Strong in **Data Structures & Algorithms**, Competitive Programming  
+🔹 Passionate about **writing clean, efficient, and scalable code**  
+🔹 Enthusiastic about **System Architecture & Performance Optimization**  
+
+📌 **Tech Stack:**  
+✔ **Languages:** Java, C++, JavaScript  
+✔ **Frontend:** HTML, CSS, JavaScript  
+✔ **Backend:** Spring Boot, Hibernate, REST APIs  
+✔ **Database:** MySQL, PostgreSQL  
+✔ **Version Control:** Git, GitHub  
+
+---
+
+### 📊 **GitHub Stats**  
+<p align="center">
+  <a href="https://github.com/Paridhipatidar03">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paridhipatidar03&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Paridhipatidar03">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Paridhipatidar03&theme=algolia" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+### 📫 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Paridhipatidar03)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=appveyor)](https://your-portfolio-link)  
+
 
 <p align="center">
   <a href="https://github.com/Paridhipatidar03">
