@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Paridhipatidar03&show_icons=true&theme=github_dark&hide_border=true" width="450">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar03&layout=compact&theme=graywhite&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar03&layout=compact&theme=dark&hide_border=true" width="400">
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paridhipatidar03&theme=github-compact&hide_border=true">
